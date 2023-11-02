@@ -1,0 +1,17 @@
+{
+  "name": "interviewer-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "nodemon main.js"
+  },
+  "author": "Olga Eidelman",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "grammy": "^1.19.2",
+    "nodemon": "^3.0.1",
+    "random-js": "^2.1.0"
+  }
+}
